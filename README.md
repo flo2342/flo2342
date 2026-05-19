@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">👋 Hello World! I'm Flo, a passionate programmer and Linux developer from Germany. 🚀</h1>
+<h1 align="center">👋 Hello! I'm Flo, a passionate programmer and Linux developer from Germany. 🚀</h1>
 
 ###
 
